@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009982364160",
+    "project_id": "loginten-9b7f4",
+    "storage_bucket": "loginten-9b7f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009982364160:android:b903ce891889aecaa156e5",
+        "android_client_info": {
+          "package_name": "com.example.loginten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009982364160-on2e51u565thife3diggpvmpmpsjdkbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2wil4sxhSrJIlwqjMqVp5NCUTWHUIZco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009982364160-on2e51u565thife3diggpvmpmpsjdkbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
